@@ -1,8 +1,8 @@
 ># homepage-of-code-recommendation
 
 ## 1. Code Search
-### 1.1 Recommend by Directly Match
-  
+### 1.1 Recommendation by Matching
+
     [1] Singer J., Lethbridge T., Vinson N. et al. [An examination of software engineering work practices](https://dl.acm.org/citation.cfm?id=1925815)[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
     
     [2] Sindhgatta R. [Using an information retrieval system to retrieve source code samples](https://dl.acm.org/citation.cfm?id=1134448)[C], Proceedings of the 28th international conference on Software engineering (*ICSE’06*), Shanghai, China, 2006: 905-908.
@@ -16,7 +16,7 @@
     [6] Nguyen T. N., Nguyen T. N., Nguyen T. N. et al. [Combining Word2Vec with revised vector space model for better code retrieval](https://dl.acm.org/citation.cfm?id=3098406)[C], International Conference on Software Engineering Companion (*ICSE-c’17*). 2017: 183-185.
 
 
-### 1.2 Recommend with the help of Expansion
+### 1.2 Recommendation with Expansion
     
     [1] Lv F., Zhang H., Lou J. et al. [CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model](http://ieeexplore.ieee.org/document/7372014/)[C], 2015 30th IEEE/ACM International Conference on Automated Software Engineering (*ASE’15*). 2015: 260-270.
     
@@ -25,7 +25,7 @@
     [3] Rahman. M. M., Roy C. K., Lo D. [RACK: code search in the IDE using crowdsourced knowledge](http://ieeexplore.ieee.org/document/7965255/)[C]//Software Engineering Companion[C](*ICSE-C’17*), 2017 IEEE/ACM 39th International Conference on. IEEE, 2017: 51-54.
     
 
-  ### 1.3 Recommend by sorting twice
+  ### 1.3 Recommendation by sorting twice
   
     [1] Jiang H, Nie L, Sun Z, et al. [ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets](http://ieeexplore.ieee.org/document/7516727/)[J]. IEEE Transactions on Services Computing (*TSC’16*), 2016, 1939(99):1-1.
   
