@@ -1,7 +1,7 @@
-# homepage-of-code-recommendation
+># homepage-of-code-recommendation
 
 ## 1. Code Search
-  ### 1.1 Recommend by Directly Match
+>>### 1.1 Recommend by Directly Match
   
     [1] Singer J., Lethbridge T., Vinson N. et al. An examination of software engineering work practices[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
     
@@ -16,7 +16,7 @@
     [6] Nguyen T. N., Nguyen T. N., Nguyen T. N. et al. Combining Word2Vec with revised vector space model for better code retrieval[C], International Conference on Software Engineering Companion (ICSE’17). 2017: 183-185.
 
 
-  ### 1.2 Recommend with the help of Expansion
+>>### 1.2 Recommend with the help of Expansion
     
     [1] Lv F., Zhang H., Lou J. et al. CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model[C], 2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE’15). 2015: 260-270.
     
@@ -25,7 +25,7 @@
     [3] Rahman. M. M., Roy C. K., Lo D. RACK: code search in the IDE using crowdsourced knowledge[C]//Software Engineering Companion (ICSE-C), 2017 IEEE/ACM 39th International Conference on. IEEE, 2017: 51-54.
     
 
-  ### 1.3 Recommend by sorting twice
+>>### 1.3 Recommend by sorting twice
   
     [1] Jiang H, Nie L, Sun Z, et al. ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets[J]. IEEE Transactions on Services Computing (TSC’16), 1939, PP(99):1-1.
   
