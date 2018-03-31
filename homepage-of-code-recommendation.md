@@ -5,7 +5,7 @@
   
     [1] Singer J., Lethbridge T., Vinson N. et al. An examination of software engineering work practices[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
     
-    [2] Sindhgatta R. Using an information retrieval system to retrieve source code samples[C], Proceedings of the 28th international conference on Software engineering (ICSE’06), Shanghai, China, 2006: 905-908.
+    [2] Sindhgatta R. Using an information retrieval system to retrieve source code samples[C], Proceedings of the 28th international conference on Software engineering (*ICSE’06*), Shanghai, China, 2006: 905-908.
     
     [3] Bajracharya S. K., Ossher J., Lopes C. V. Leveraging usage similarity for effective retrieval of examples in code repositories[C], Proceedings of the eighteenth ACM SIGSOFT international symposium on Foundations of software engineering (FSE’10). 2010: 157-166.
     
