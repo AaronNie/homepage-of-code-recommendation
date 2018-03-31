@@ -1,5 +1,12 @@
 # Homepage-of-code-recommendation
 
+Introduction: Here, the references about: 
+
+    1. code recommendation,
+    2. API recommendation,
+    3. code completion,
+    and so on.
+
 ## 1. Code Search
 ### 1.1 Recommendation by Matching
 
