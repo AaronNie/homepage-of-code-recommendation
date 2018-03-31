@@ -3,7 +3,7 @@
 ## 1. Code Search
 ### 1.1 Recommend by Directly Match
   
-    [1] Singer J., Lethbridge T., Vinson N. et al. An examination of software engineering work practices[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
+    [1] Singer J., Lethbridge T., Vinson N. et al. [An examination of software engineering work practices](https://dl.acm.org/citation.cfm?id=1925815)[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
     
     [2] Sindhgatta R. Using an information retrieval system to retrieve source code samples[C], Proceedings of the 28th international conference on Software engineering (*ICSE’06*), Shanghai, China, 2006: 905-908.
     
