@@ -2,8 +2,8 @@
 
 ## 1. Code Search
   ### 1.1 Recommend by Directly Match
-    
-    [1] Singer J., Lethbridge T., Vinson N. et al. An examination of software engineering work practices[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
+  
+    [1] Singer J., Lethbridge T., Vinson N. et al. An examination of software engineering work practices[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
     
     [2] Sindhgatta R. Using an information retrieval system to retrieve source code samples[C], Proceedings of the 28th international conference on Software engineering (ICSE’06), Shanghai, China, 2006: 905-908.
     
@@ -27,7 +27,7 @@
 
   ### 1.3 Recommend by sorting twice
   
-    [1] Jiang H, Nie L, Sun Z, et al. ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets[J]. IEEE Transactions on Services Computing (TSC’16), 1939, PP(99):1-1.
+    [1] Jiang H, Nie L, Sun Z, et al. ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets[J]. IEEE Transactions on Services Computing (TSC’16), 1939, PP(99):1-1.
   
     [2] Mcmillan C., Poshyvanyk D., Grechanik M. et al. Portfolio: Searching for relevant functions and their usages in millions of lines of code[J], ACM Transactions on Software Engineering and Methodology (TOSEM’13). 22 (4), 2013: 37.
     
