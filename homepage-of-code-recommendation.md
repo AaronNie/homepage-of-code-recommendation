@@ -1,4 +1,4 @@
-># homepage-of-code-recommendation
+# Homepage-of-code-recommendation
 
 ## 1. Code Search
 ### 1.1 Recommendation by Matching
@@ -39,3 +39,4 @@
     
     [6] Ponzanelli L, Scalabrino S, Bavota G, et al. [Supporting Software Developers with a Holistic Recommender System](https://dl.acm.org/citation.cfm?id=3097381)[C]// Ieee/acm, International Conference on Software Engineering (*ICSE’17*). IEEE, 2017:94-105.
 
+  #Continue...
