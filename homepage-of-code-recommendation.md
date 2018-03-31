@@ -9,7 +9,7 @@
     
     [3] Bajracharya S. K., Ossher J., Lopes C. V. Leveraging usage similarity for effective retrieval of examples in code repositories[C], Proceedings of the eighteenth ACM SIGSOFT international symposium on Foundations of software engineering (FSE’10). 2010: 157-166.
     
-    [4] Hill E., Pollock L., Vijay-Shanker K. Improving source code search with natural language phrasal representations of method signatures[C], Automated Software Engineering (ASE’11), 2011 26th IEEE/ACM International Conference on. 2011: 524-527.
+    [4] Hill E., Pollock L., Vijay-Shanker K. [Improving source code search with natural language phrasal representations of method signatures](http://ieeexplore.ieee.org/document/6100115/)[C], Automated Software Engineering (ASE’11), 2011 26th IEEE/ACM International Conference on. 2011: 524-527.
     
     [5] Li X, Wang Z, Wang Q, et al. Relationship-aware code search for JavaScript frameworks[C]// ACM Sigsoft International Symposium on Foundations of Software Engineering (FSE’16). ACM, 2016:690-701.
     
