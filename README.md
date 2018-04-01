@@ -27,12 +27,12 @@ Introduction: Here, the references about:
     
     [1] Lv F., Zhang H., Lou J. et al. [CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model](http://ieeexplore.ieee.org/document/7372014/)[C], 2015 30th IEEE/ACM International Conference on Automated Software Engineering (*ASE’15*). 2015: 260-270.
     
-    [2] Nie L. M., Jiang H., Ren Z. L. et al. [Query Expansion Based on Crowd Knowledge for Code Search](http://ieeexplore.ieee.org/document/7462267/)[J], IEEE Transactions on Services Computing[J] (*TSC’16*). 2016, 9 (5): 771-783.
+    [2] Nie L. M., Jiang H., Ren Z. L. et al. [Query Expansion Based on Crowd Knowledge for Code Search](http://ieeexplore.ieee.org/document/7462267/)[J], IEEE Transactions on Services Computing (*TSC’16*). 2016, 9 (5): 771-783.
     
-    [3] Rahman. M. M., Roy C. K., Lo D. [RACK: code search in the IDE using crowdsourced knowledge](http://ieeexplore.ieee.org/document/7965255/)[C]//Software Engineering Companion(*ICSE-C’17*), 2017 IEEE/ACM 39th International Conference on. IEEE, 2017: 51-54.
+    [3] Rahman. M. M., Roy C. K., Lo D. [RACK: code search in the IDE using crowdsourced knowledge](http://ieeexplore.ieee.org/document/7965255/)[C], IEEE/ACM 39th International Conference on Software Engineering Companion (*ICSE-C’17*). IEEE, 2017: 51-54.
     
 
-  ### 1.3 Recommendation by sorting twice
+### 1.3 Recommendation by sorting twice
   
     [1] Jiang H, Nie L, Sun Z, et al. [ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets](http://ieeexplore.ieee.org/document/7516727/)[J]. IEEE Transactions on Services Computing (*TSC’16*), 2016, 1939(99):1-1.
   
