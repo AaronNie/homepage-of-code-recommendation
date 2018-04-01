@@ -29,7 +29,7 @@ Introduction: Here, the references about:
     
     [2] Nie L. M., Jiang H., Ren Z. L. et al. [Query Expansion Based on Crowd Knowledge for Code Search](http://ieeexplore.ieee.org/document/7462267/)[J], IEEE Transactions on Services Computing[J] (*TSC’16*). 2016, 9 (5): 771-783.
     
-    [3] Rahman. M. M., Roy C. K., Lo D. [RACK: code search in the IDE using crowdsourced knowledge](http://ieeexplore.ieee.org/document/7965255/)[C]//Software Engineering Companion[C](*ICSE-C’17*), 2017 IEEE/ACM 39th International Conference on. IEEE, 2017: 51-54.
+    [3] Rahman. M. M., Roy C. K., Lo D. [RACK: code search in the IDE using crowdsourced knowledge](http://ieeexplore.ieee.org/document/7965255/)[C]//Software Engineering Companion(*ICSE-C’17*), 2017 IEEE/ACM 39th International Conference on. IEEE, 2017: 51-54.
     
 
   ### 1.3 Recommendation by sorting twice
