@@ -39,6 +39,7 @@ Introduction: Here, the references about:
     
     [5] Wang S, Lo D, Jiang L. [Active code search: incorporating user feedback to improve code search relevance](https://dl.acm.org/citation.cfm?id=2642947)[C]// ACM/IEEE International Conference on Automated Software Engineering. ACM, 2014:677-682.
     
+    [6] Lu M, Sun X, Wang S, et al. [Query expansion via WordNet for effective code search](http://ieeexplore.ieee.org/document/7081874/)[C]// IEEE, International Conference on Software Analysis, Evolution and Reengineering (*SANER'15*). 2015:545-549.
 
 #### 1.1.3 Recommendation by sorting twice
   
