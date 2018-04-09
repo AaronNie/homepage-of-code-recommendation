@@ -33,6 +33,7 @@ Introduction: Here, the references about:
     
     [4] Chatterjee S, Juvekar S, Sen K. [SNIFF: A Search Engine for Java Using Free-Form Queries](https://link.springer.com/chapter/10.1007/978-3-642-00593-0_26)[M]// Fundamental Approaches to Software Engineering (*FASE'09*). Springer Berlin Heidelberg, 2009:385-400.
     
+    [5] Wang S, Lo D, Jiang L. [Active code search: incorporating user feedback to improve code search relevance](https://dl.acm.org/citation.cfm?id=2642947)[C]// ACM/IEEE International Conference on Automated Software Engineering. ACM, 2014:677-682.
 
 ### 1.3 Recommendation by sorting twice
   
