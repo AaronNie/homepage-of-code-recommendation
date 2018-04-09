@@ -7,8 +7,9 @@ Introduction: Here, the references about:
     3. code completion,
     and so on.
 
-## 1. Code Search
-### 1.1 Recommendation by Matching
+## 1. Code recommendation
+### 1.1 Query with free-form text
+#### 1.1.1 Recommendation by Matching
 
     [1] Singer J., Lethbridge T., Vinson N. et al. [An examination of software engineering work practices](https://dl.acm.org/citation.cfm?id=1925815)[C], Proceedings of the 1997 conference of the Centre for Advanced Studies on Collaborative research, Toronto, Ontario, Canada, 1997: 21.
     
@@ -23,7 +24,7 @@ Introduction: Here, the references about:
     [6] Nguyen T. N., Nguyen T. N., Nguyen T. N. et al. [Combining Word2Vec with revised vector space model for better code retrieval](https://dl.acm.org/citation.cfm?id=3098406)[C], International Conference on Software Engineering Companion (*ICSE-c’17*). 2017: 183-185.
 
 
-### 1.2 Recommendation with Expansion
+#### 1.1.2 Recommendation with Expansion
     
     [1] Lv F., Zhang H., Lou J. et al. [CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model](http://ieeexplore.ieee.org/document/7372014/)[C], 2015 30th IEEE/ACM International Conference on Automated Software Engineering (*ASE’15*). 2015: 260-270.
     
@@ -35,7 +36,7 @@ Introduction: Here, the references about:
     
     [5] Wang S, Lo D, Jiang L. [Active code search: incorporating user feedback to improve code search relevance](https://dl.acm.org/citation.cfm?id=2642947)[C]// ACM/IEEE International Conference on Automated Software Engineering. ACM, 2014:677-682.
 
-### 1.3 Recommendation by sorting twice
+#### 1.1.3 Recommendation by sorting twice
   
     [1] Jiang H, Nie L, Sun Z, et al. [ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets](http://ieeexplore.ieee.org/document/7516727/)[J]. IEEE Transactions on Services Computing (*TSC’16*), 2016, 1939(99):1-1.
   
@@ -48,5 +49,10 @@ Introduction: Here, the references about:
     [5] Keivanloo I., Rilling J., Zou Y. [Spotting working code examples](https://dl.acm.org/citation.cfm?id=2568292)[C], Proceedings of the 36th International Conference on Software Engineering (*ICSE’14*), Hyderabad, India, 2014: 664-675.
     
     [6] Ponzanelli L, Scalabrino S, Bavota G, et al. [Supporting Software Developers with a Holistic Recommender System](https://dl.acm.org/citation.cfm?id=3097381)[C]// Ieee/acm, International Conference on Software Engineering (*ICSE’17*). IEEE, 2017:94-105.
+    
+### 1.2 Query with specific format
+
+    [1]Stolee K T. [Finding Suitable Programs: Semantic Search with Incomplete and Lightweight Specifications](http://ieeexplore.ieee.org/document/6227034/)[J], 34th International Conference on Software Engineering (*ICSE'12*). 2012:1571-1574.
+
 
 # Continue...
