@@ -53,6 +53,7 @@ Introduction: Here, the references about:
 ### 1.2 Query with specific format
 
     [1] Stolee K T. [Finding Suitable Programs: Semantic Search with Incomplete and Lightweight Specifications](http://ieeexplore.ieee.org/document/6227034/)[J], 34th International Conference on Software Engineering (*ICSE'12*). 2012:1571-1574.
+    
     [2] Thummalapenta, Suresh, Xie, et al. Parseweb: a programmer assistant for reusing open source code on the web[J]. Proceedings of the 22th IEEE/ACM international conference on Automated software engineering (*ASE'07*), 2007:204-213.
 
 # Continue...
