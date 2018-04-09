@@ -31,6 +31,8 @@ Introduction: Here, the references about:
     
     [3] Rahman. M. M., Roy C. K., Lo D. [RACK: code search in the IDE using crowdsourced knowledge](http://ieeexplore.ieee.org/document/7965255/)[C], IEEE/ACM 39th International Conference on Software Engineering Companion (*ICSE-C’17*). IEEE, 2017: 51-54.
     
+    [4] Chatterjee S, Juvekar S, Sen K. [SNIFF: A Search Engine for Java Using Free-Form Queries](https://link.springer.com/chapter/10.1007/978-3-642-00593-0_26)[M]// Fundamental Approaches to Software Engineering (*FASE'09*). Springer Berlin Heidelberg, 2009:385-400.
+    
 
 ### 1.3 Recommendation by sorting twice
   
